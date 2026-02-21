@@ -1,0 +1,2 @@
+# MC-ServerScanner
+ Minecraft Scanner
