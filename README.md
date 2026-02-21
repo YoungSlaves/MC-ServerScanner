@@ -5,8 +5,6 @@
 
 A powerful, multithreaded Minecraft server scanner that discovers servers across multiple hosting providers, retrieves their details (version, MOTD, players), and organises the results by **server version** and **player count** – all with a stylish gradient ASCII banner and real‑time console logging.
 
-![Example console output](https://via.placeholder.com/800x200?text=Gradient+Banner+%2B+Live+Logs)  
-*Replace with a real screenshot of your scanner in action*
 
 ---
 
